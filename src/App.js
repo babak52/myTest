@@ -3,7 +3,7 @@ import Form from "./component/form";
 import { BrowserRouter as Router, Switch, Route, Link ,  useParams,useRouteMatch} from "react-router-dom";
 
 function App() {
-  console.log('babak branch')
+  
 
   return (
     <>
