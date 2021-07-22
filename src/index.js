@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-console.log('babak branch')
 
 ReactDOM.render(
   <React.StrictMode>
